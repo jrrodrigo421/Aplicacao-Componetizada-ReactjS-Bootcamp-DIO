@@ -17,14 +17,14 @@ export const WrapperTitle = styled.h2`
 `;
 
 export const WrapperFullName = styled.h2`
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   margin: 8px 0;
   color: #2d3748;
 `;
 
 export const WrapperLink = styled.a`
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   margin: 8px 0;
   color: #3182ce;
